@@ -261,7 +261,7 @@ An intelligent home maintenance platform that connects customers with skilled te
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver,html,css,js,bootstrap,git"/>
+<img src="https://skillicons.dev/icons?i=cs,sqlserver,html,css,js,bootstrap,git"/>
 
 </p>
 
