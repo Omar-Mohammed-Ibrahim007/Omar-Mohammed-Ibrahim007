@@ -85,6 +85,24 @@ Computer Science Graduate passionate about building secure network infrastructur
 
 ---
 
+##  Databases
+
+- MySQL
+- PostgreSQL
+- Oracle Database
+- SQL Server
+- SQLite
+- MongoDB
+- Firebase Firestore
+- Hive
+- FAISS (Vector Database)
+- ChromaDB
+- SQl AlCHEMY(ORM)
+- Database Migrations
+- Shared Preferences
+- Key-Value Storage
+---
+
 #  Networking & Infrastructure
 
 <p align="center">
@@ -339,7 +357,7 @@ Designed embedded systems projects using ESP32 including sensors, GPIO, Wi-Fi co
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Mohammed-Ibrahim007&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Omar-Mohammed-Ibrahim007/Omar-Mohammed-Ibrahim007/main/github-user-contribution.svg" alt="GitHub Contributions"/>
 
 </p>
 
