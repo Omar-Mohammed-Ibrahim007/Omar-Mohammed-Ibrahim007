@@ -42,7 +42,7 @@ Computer Science Graduate passionate about building secure network infrastructur
 
 #  About Me
 
-- 🎓 Computer Science Graduate
+- 🎓 Graduate of the Faculty of Computer Science & Artificial Intelligence
 -  Passionate about Networking, Network Security, SOC Operations and IT Infrastructure
 -  Strong foundation in TCP/IP, Routing & Switching, VLANs, OSPF, VPNs, DHCP, DNS, NAT and Enterprise Networking
 -  Experienced in Vulnerability Assessment, Penetration Testing, Threat Hunting, Incident Response and Security Hardening
@@ -79,7 +79,7 @@ Computer Science Graduate passionate about building secure network infrastructur
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,php,js,html,css,bootstrap,dotnet,mysql,sqlite,bash&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,php,js,html,css,bootstrap,mysql,sqlite,bash&perline=7"/>
 
 </p>
 
@@ -261,7 +261,7 @@ An intelligent home maintenance platform that connects customers with skilled te
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cs,sqlserver,html,css,js,bootstrap,git"/>
+<img src="https://skillicons.dev/icons?i=sqlserver,html,css,js,bootstrap,git"/>
 
 </p>
 
